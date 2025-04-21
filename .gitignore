@@ -1,7 +1,7 @@
 setup.sh
 */_version.py
 data/temp.nc
-
+*-old.*
 
 logs/*log
 
